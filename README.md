@@ -1,4 +1,4 @@
-# AI Poetry Generator Using RNN
+# GPT-RNN Poetry Generator
 
 Created a generative pre-trained transformer (GPT) using a recurrent neural network (RNN) to generate poetry.  
 
